@@ -1,0 +1,48 @@
+python installation.....
+
+turob c
+
+vs code -->
+
+
+python :--
+
+please hello world lakho ???
+c langauge ->
+python
+c++
+java
+js
+css
+html
+
+protocols --> main () point start -->
+
+scripting langugae -->
+1st line
+last end ..
+
+python is a scripting language...
+
+---------------------------------
+
+staticlly typed ? / prog/scripti
+	-->
+
+int a =10;
+a =10 //error statically typed
+	
+dynamically typed ? prog / scripti
+	-->
+a =10 //
+
+
+
+
+
+
+
+
+
+
+
