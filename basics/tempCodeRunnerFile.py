@@ -1,0 +1,1 @@
+no1 = int(input("enter no 1:")) #explicit type conversion

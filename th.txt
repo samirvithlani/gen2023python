@@ -36,8 +36,32 @@ dynamically typed ? prog / scripti
 	-->
 a =10 //
 
+c//
+int a;
+12.22
 
+12
+float f =12;
+12.0
 
+int  -->float -->
+brodcasting -->
+
+float -->int -->
+narrowing -->
+
+--------------------------
+operators --> def: operators are the symbols which are used to perform the
+ operations on the operands.
+type:
+1) arithmetic operators + , -, *, /, %, //, **
+2) logical operators and, or, not
+3) bitwise operators &, |, ^, ~, <<, >>
+4) relational operators <, >, <=, >=, ==, !=
+5) assignment operators =, +=, -=, *=, /=, %=, //=, **=
+6) unary operators +, -, ~
+7) membership operators in, not in
+8) identity operators is, is not
 
 
 
