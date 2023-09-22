@@ -64,6 +64,53 @@ type:
 8) identity operators is, is not
 
 
+*decsion making statements
+1) if else
+2) loops
+
+if condition:
+	if statements
+	.
+	.
+	.
+	.
+	.
+	.
+	.
+///erro......	
+else:
+	else statements
+	.
+	.
+	.
+
+indentation --> tab space
+
+cond1 and cond2
+
+t    t    t
+f    -    f
+t    f	  f
+
+cond1 or cond2
+
+t    -	t
+f    t  t
+f   f   f
+
+led
+
+1st --> false
+2nd --> ....
+3 rd..
+
+true
+	check......
+
+
+
+
+
 
 
 
