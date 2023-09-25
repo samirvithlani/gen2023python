@@ -108,6 +108,24 @@ true
 	check......
 
 
+ntery control loops :
+for and while....
+
+	for :- start loop,, ending loop --->
+		1 to 100 --> for...
+	while :-specfic condition.... while..
+		100 --> 10 10 10
+
+		for(i=1;i<=10;i++){
+			
+		}
+
+ 
+no exit control loop 
+exit control loop :
+do while..
+
+
 
 
 
