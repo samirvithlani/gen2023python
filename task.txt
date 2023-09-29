@@ -1,1 +1,14 @@
-swap no without using 3rd variable...
+enter morning temp : 0 to 15 --> error --> enter again 2 chance
+enter noon tem = 20 to 40 --> error --> enter again 2 chance
+enter evening temp = 15 to 35 --> error --> enter again 2 chance
+
+-> average temp = 20
+
+
+task:
+find lastINdex ----> last occurance of 
+
+#find no of occurance of particular element in string
+eg: dont plant bomb here... -->enterd string...
+enter char to find occurance = o
+o occures 2 times in string
