@@ -6,7 +6,7 @@ enter evening temp = 15 to 35 --> error --> enter again 2 chance
 
 
 task:
-find lastINdex ----> last occurance of 
+1)find lastINdex ----> last occurance of 
 
 #find no of occurance of particular element in string
 eg: dont plant bomb here... -->enterd string...
