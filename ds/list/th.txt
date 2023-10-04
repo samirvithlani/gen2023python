@@ -1,0 +1,6 @@
+append
+extends
+pop
+pop(1)
+remove
+count

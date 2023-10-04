@@ -125,6 +125,25 @@ no exit control loop
 exit control loop :
 do while..
 
+python 4 type ds :
+[] --> list data type
+
+list : list is a collection of hetrogenous data elements
+1) list is a mutable ds
+2) list is a ordered ds
+3) list is a indexed ds
+4) list is a dynamic ds we dont need to specify the size of the list
+5) list allows duplicate elements
+6) list allows slicing and dicing
+		
+
+
+
+
+tuple
+set
+dict
+
 
 
 
