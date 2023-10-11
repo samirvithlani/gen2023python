@@ -4,3 +4,26 @@ pop
 pop(1)
 remove
 count
+
+
+#list
+1)list is mutable
+2)list is ordered
+3)list allows duplicate values
+4)list allows heterogeneous values
+5)list allows null values
+6)list allows insertion order
+
+    index mechanism
+
+#tuple 
+1)tuple is immutable
+2)tuple is ordered
+3)tuple allows duplicate values
+4)tuple allows heterogeneous values
+5)tuple allows null values
+6)tuple allows insertion order
+
+    index mechanism
+
+
