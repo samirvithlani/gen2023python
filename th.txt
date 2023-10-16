@@ -144,6 +144,25 @@ tuple
 set
 dict
 
+index -->
+dictonory:
+
+userName:"aadhr no"
+roll no :"sno"
+"enrono":"detail"
+[] --> list
+() --> tuple
+{} --> dictonory
+
+1)dictonory store the data in the form of key value pair
+2)dictonory is a mutable ds
+3)dictonory is a unordered ds
+4)dictonory is a dynamic ds
+5)dictonory allows duplicate values but not duplicate keys
+6)dictonory allows slicing and
+7)dictonory allows hetrogenous data elements
+
+
 
 
 
