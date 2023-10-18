@@ -162,6 +162,15 @@ roll no :"sno"
 6)dictonory allows slicing and
 7)dictonory allows hetrogenous data elements
 
+#set :
+1) set is a collection of unique elements
+2) set is a mutable ds
+3)set is unordered ds
+4)set is a dynamic ds
+5)set allows hetrogenous data elements
+6)set allows slicing 
+
+
 
 
 
