@@ -1,0 +1,22 @@
+functions: function is collection of statement which is used to perform a specific task.
+
+advantages of function:reuseability,code optimization,code maintainability
+
+# 50 lines.. () wrap --> 
+# 
+# 
+
+type of functions:
+Pre defined functions, input,/...........
+User defined functions , user will create
+
+
+4 type of functions:
+1) with return type and with arguments
+2) with return type and without arguments
+3) without return type and with arguments
+4) without return type and without arguments
+
+#void
+
+#def keyword is used to create a function
