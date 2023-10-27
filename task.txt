@@ -12,3 +12,14 @@ task:
 eg: dont plant bomb here... -->enterd string...
 enter char to find occurance = o
 o occures 2 times in string
+
+
+1
+23
+456
+78910
+
+get 1 string from user --> alpha --> false...
+
+find no of words
+
