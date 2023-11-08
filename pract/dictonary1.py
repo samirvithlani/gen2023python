@@ -5,7 +5,7 @@
     dict is not indexed
     dict does not allow duplicate keys
     dict allows duplicate values
-    dict stores data in key value pair
+    dict stores data in key value pair :
     dict allows heterogenous data[key, value..]
     {} --> dict
     [] --> list
