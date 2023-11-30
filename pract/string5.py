@@ -15,7 +15,7 @@ email = email.rstrip()
 print(email)
 print(len(email))
 
-
+#check if name is valid or not
 def isValid(name):
     name = name.strip()
     if len(name)>3:
