@@ -1,15 +1,9 @@
-def checkString(name,l):
-    name = name.strip()
-    if len(name)>l:
-        return True
-    
-    return False
+def employeeDetail():
+    print("Employee Details")
+   # return "emp"
+    #return 100
+    return True
 
 
-# x = checkString("    kjak")
-# print("x = ",x)
-
-if checkString("java",4):
-    print("valid string")
-else:
-    print("invalid string")    
+x = employeeDetail() #calling function
+print(x) #printing return value

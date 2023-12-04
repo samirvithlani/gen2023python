@@ -23,3 +23,11 @@ get 1 string from user --> alpha --> false...
 
 find no of words
 
+
+#set task
+1)remove duplicate elements from list using set
+3)find common elements from 2 sets
+4)find uncommon elements from 2 sets
+
+5)remove elemet from set get element from user
+

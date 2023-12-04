@@ -170,6 +170,48 @@ roll no :"sno"
 5)set allows hetrogenous data elements
 6)set allows slicing 
 
+functions:
+
+function:function is a block of code which is used to perform a specific task
+advantages:
+
+-----------------------------------------------
+drawline function:
+print("----------------------------------------------") 100 times
+
+1)code reusablity
+2)code optimization
+
+	input ---> name --> "no space allow..." 5 line... isSapce(name) --> 
+3)code maintainability
+	:--> isSpace()
+4)code readability
+	:50 line code... --> 5 function
+
+Type of functions:
+pre defined functions
+	: input.......
+user defined functions
+	:
+
+4 types of user / pre defined functions:	
+1) function with no arg and no return type
+2) function with arg and no return type
+3) function with no arg and return type
+4) function with arg and return type
+
+--------------------------------------------
+
+int test()
+{
+
+}
+void test()
+
+//def keyword is used to define the function
+
+def functionName(param....):
+	statements
 
 
 

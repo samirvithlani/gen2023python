@@ -1,22 +1,12 @@
-def getUserData(users):
-    print(users)
-    for i in users:
-        print(i)
+def add(no1,no2):
+    print("Addition")
+    #c = no1 + no2
+    #return c
+    return no1 + no2
 
 
-
-#getUserData("java")    
-getUserData(["java","python","c++"])
-# getUserData(("java","python","c++"))
-# getUserData({"java","python","c++"})
+ans = add(10,20) #calling function
+print("Addition is ",ans) #printing return value
 
 
-def getEmployeeData(emps):
-    empList = []
-    for i in emps:
-        empList.append(i.upper())
-    return empList
-
-
-x = getEmployeeData(["java","python","c++"])
-print("x = ",x)
+print("Addition is ",add(100,200)) #calling function and printing return value

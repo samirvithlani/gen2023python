@@ -1,34 +1,25 @@
+#function naming convention: userDetail()
+#without args and without return type
+
 def test():
-    print("test function called...")
-    print("wo return type without args")
-
-test()#function call    
-
-#give explicit return type None
-
-def test1() -> None:
-    print("test1 function called...")
+    print("This is test function")
+    print("this function is without args and without return type")
 
 
-test1()#function call    
+test() #calling function
+
+#without return type with args
+def userDetail(name,age):
+    print("Name is ",name)
+    print("Age is ",age)
+    print("This function is with args and without return type")
 
 
-def add(a,b):
-    print("add function called...")
-    # c = a+b
-    # return c
-    return a+b
+userName = input("Enter name: ")
+userAge = int(input("Enter age: "))
 
-ans = add(10,20)#function call
-print("ans = ",ans)
+#userDetail("Ram",20) #calling function")
 
-
-
-def mul():
-    no = int(input("Enter no: ")) #local variable
-    return no**2
-
-x = mul()
-print("x = ",x)
-
-#print(no) #error
+#call by value
+userDetail(userName,userAge) #calling function    
+    
