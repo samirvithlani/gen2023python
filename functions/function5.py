@@ -1,6 +1,6 @@
 #keyword arg functions....
 
-def userDetail(name,email,age):
+def userDetail(p,name,email,age,city):
     print("Name is: ",name)
     print("Email is: ",email)
 
@@ -9,4 +9,4 @@ def userDetail(name,email,age):
 #userDetail("ram","ram@gmail.com")    
 #userDetail("ram@gmail.com","ram")    
 #userDetail(name ="ram",email ="ram@gmail.com")
-userDetail(email ="ram@gmail.com",name ="ram",age=20)
+userDetail(100,email ="ram@gmail.com",name ="ram",age=20,)

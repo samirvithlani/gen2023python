@@ -4,6 +4,10 @@ def userRecords(users):
     print(type(users))
 
 
+#userRecords("ram")
+#userRecords(100)
+#userRecords(100.00)
+
 #userRecords(["ram","shyam","hari"])
 #userRecords(("ram","shyam","hari"))
 #userRecords(users=["ram","shyam","hari"])
