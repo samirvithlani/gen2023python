@@ -31,3 +31,9 @@ find no of words
 
 5)remove elemet from set get element from user
 
+
+1)create decorator to check if user is admin or not
+2) create decorator to check string is palindrome or not
+3) create dcocorator to check string must not have space
+4) create decorator to check list must have only int elements [*args]
+5) create decorator to check list must have only string elements
