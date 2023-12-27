@@ -1,8 +1,9 @@
-
 noOfTotalSeats = 100
 noOfAvailableSeats = 100
 ticketPrice = 1000
 passangerDetails = []
+
+#create Decorator for checking the availability of seats
 
 def payment(noOfTickets):
     print("***************Payment function******************")
