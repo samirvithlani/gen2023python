@@ -37,3 +37,10 @@ find no of words
 3)create dcocorator to check string must not have space
 4)create decorator to check list must have only int elements [*args]
 5)create decorator to check list must have only string elements
+
+
+
+
+
+create a decorators with param , it will take 2 param , 
+and check param data type shoild be int otherwise it will throe error...

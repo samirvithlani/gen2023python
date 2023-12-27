@@ -1,0 +1,22 @@
+noram function -->w
+keyword argument -->
+args
+kwargs
+inner function -->
+decorator function -->
+lambda
+
+
+
+args
+def add(*args,x)
+add(10,20,30,x=40)
+def add(x,**kwargs) #compie time error
+
+
+iterable    subscriptable
+string       yes
+list         yes 
+tuple        yes
+dict         yes
+set          No
