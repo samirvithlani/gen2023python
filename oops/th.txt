@@ -1,0 +1,101 @@
+methodology :
+
+POPS : procedure oriented programming structure
+OOPS : object oriented programming structure
+
+diff between POPs and OOPs :
+
+1) POPs : in POPs we can write the program in the form of functions
+    eg: c, pascal, fortran, cobol, basic, etc
+2) OOPs : in OOPs we can write the program in the form of classes and objects
+    eg: c++, java, c#, python, etc
+
+
+4 piller concept of OOPs :
+1) Encapsulation : binding the data and methods into a single unit is called as encapsulation
+    1)classes
+    2)objects
+    3)methods
+    4)variables
+    5)constructors
+
+2) Abstraction : hiding the internal implementation and showing the functionality to the user is called as abstraction
+    
+3) Inheritance : acquiring the properties from one class to another class is called as inheritance
+               :child / derived class can access the properties of parent / base class
+    
+
+
+4) Polymorphism : poly means many and morphism means forms
+                : same name but different forms
+                : method overloading
+                : method overriding
+
+
+
+encapsulation :
+class : class is a collection data members and member functions
+        :class is a blue print of an object
+        :class is a logical entity
+        :class is a user defined data type
+        :class is a template
+        :class is a reference data type
+
+object: object is a physical entity
+        :object is a instance of a class
+        :object is a run time entity
+        :object is a real world entity
+        :object is a variable of a class type
+        :object is a reference variable
+
+
+
+1)completness ans sufficiency
+ --> student :- name, rollno, marks, grade, address, phone, email, etc
+
+otp --->
+customer -->
+
+ bank {
+    //open account
+    //withdraw
+    //deposit
+    //balance enquiry
+ }
+
+ high cohesion and low coupling
+ 
+ high cohasion:
+ 
+ low cohesion and tight coupling
+coupling: tight coupling and loose coupling
+
+
+class BlueDart{
+    supply(){
+        //code
+    }
+}
+
+
+class Flipkart : blueDart{
+
+
+
+}
+
+loose coupling and high cohesion
+------------------------------------
+is a relationship
+has a relationship
+
+class          object
+Fruit          apple,mango,banana,grapes,etc
+Vehicle        car,bike,bus,train,etc
+
+School          student,teacher,principal,etc
+
+
+
+we have class keyword to create a class
+class name must start with capital letter StudentDetail
