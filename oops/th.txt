@@ -99,3 +99,10 @@ School          student,teacher,principal,etc
 
 we have class keyword to create a class
 class name must start with capital letter StudentDetail
+
+
+gloabal var: var which is declared outside the class is called as global var
+local var: var which is declared inside the class and inside the method is called as local var
+instance var: var which is declared inside the method or constructor using self is called as instance var
+class / static var: var which is declared inside the class and outside the method is called as class var
+                    
