@@ -8,7 +8,14 @@ class Bank:
         self.balance = 0  # instance variable,public variable
         self.name = "SBI"
         self.branch = "Mumbai"
-        
+    
+    def __del__(self):
+        print("Destructor is called")
+        #callaoc and malloc in c/c++ delete free in c++
+        self.balance = 0
+        self.name = ""
+        self.branch = ""
+            
 
 
 
