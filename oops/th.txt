@@ -105,4 +105,34 @@ gloabal var: var which is declared outside the class is called as global var
 local var: var which is declared inside the class and inside the method is called as local var
 instance var: var which is declared inside the method or constructor using self is called as instance var
 class / static var: var which is declared inside the class and outside the method is called as class var
+
+
+constructors:
+1)constructor is special method, which is used to initialize the instance var
+2)constructor will define using __init__(self)
+3)constructor will execute automatically when we create an object
+4)constructor will execute only once per object
+5)constructor does not return any value
+6)constuctor may have parameters or may not have parameters
+
+type of constructor in python:
+1)default constructor
+2)parameterized constructor
+
+one class must have one constructor...
+if programmer not define any constructor then python will provide default constructor
+
+use of constructor:
+1)to initialize the instance var
+
+
+
+
+
+
+
+
+
+
+
                     
