@@ -127,6 +127,33 @@ use of constructor:
 
 
 
+Inheritance:
+child /derived class can access the properties of parent /base  class is called as inheritance
+
+advantages of inheritance:
+reusability of code
+
+
+type of inheritance:
+1)single inheritance  1 parent and 1 child
+
+2)multiple inheritance
+
+    1)1 parent and n child
+    2)n parent and 1 child
+
+
+#)multilevel inheritance
+    1 -. 2 -. 3
+4)hybrid inheritance
+    1)multiple + multilevel
+5)hierarchical inheritance
+                             queen elizabeth
+
+        prince charles           prince andrew           princess anne                       
+
+    prince william  prince harry  princess beatrice  princess eugenie  prince edward  prince andrew
+
 
 
 
