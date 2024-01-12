@@ -156,10 +156,22 @@ type of inheritance:
 
 
 
+polymorphism: poly means many and morphism means forms
+            : same name but different forms
+            : method overloading / compile time polymorphism
+            : method overriding / run time polymorphism
 
 
+method overloading:
+same name of method create in same class with different parameters is called as method overloading
+
+serach(pname)
+search(pname,variant)
+search(pname,color)
+search(pname,color,price)
 
 
-
-
-                    
+search(fname)
+search(resname,fname)
+search(fname,location)
+search(fname,location,price)
