@@ -175,3 +175,49 @@ search(fname)
 search(resname,fname)
 search(fname,location)
 search(fname,location,price)
+
+
+
+overriding....
+same name of method create in child class with same signture which is present 
+in parent class is called as method overriding
+
+signture : return type,name,paramaters,access specifier
+
+JB VADAPAVA AHEMEDABAD :
+
+      def vadpav():
+        logic
+
+    CG ROAD JB VADAPAV -->
+    
+            def vadpav():
+                enhanced logic
+
+
+BANKING SYSTEM :
+
+HDFC BANK AC : DEBIT CARD
+SBI BANK ATM MACHINE : --> YES
+
+class RBI
+
+     withdraw()
+
+class HDFC(RBI){
+
+    withdraw()
+
+}
+
+class SBI{
+
+    withdraw()
+
+}
+
+
+
+
+
+
