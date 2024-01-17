@@ -44,3 +44,7 @@ find no of words
 
 create a decorators with param , it will take 2 param , 
 and check param data type shoild be int otherwise it will throe error...
+
+
+FILE HANDLING TASKS:
+create resume.txt file and write your name , age , address , skills , hobbies , projects , experience , education , contact no , email id

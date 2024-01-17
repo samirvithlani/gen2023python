@@ -21,6 +21,21 @@ exclusive creation :- x  --> if file is not exist then it will create new file ,
 """
 
 
+relative path :- "./th.txt"
+absolute path :-D:\royal\gen2023python\filehandling
+
+./ --> current directory
+../ --> parent directory
+../../ --> grand parent directory
+
+
+
+
+
+
+
+
+
 
 
 
