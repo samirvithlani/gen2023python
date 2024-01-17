@@ -1,0 +1,26 @@
+file :-
+to store data permanently we need to use file handling concept
+to achive data persistence we have to use file or database
+
+3 operations :-
+open file
+read/write file
+close file
+
+
+modes:-
+
+read mode :- r       -> file must be exist
+write mode :- w      --> if file is not exist then it will create new file ,and if file is exist then it will override the data
+append mode :- a     --> if file is not exist then it will create new file ,and if file is exist then it will append the data
+read and write mode :- r+ --> file must be exist
+write and read mode :- w+  --> if file is not exist then it will create new file ,and if file is exist then it will override the data
+append and read mode :- a+ --> if file is not exist then it will create new file ,and if file is exist then it will append the data
+exclusive creation :- x  --> if file is not exist then it will create new file ,and if file is exist then it will give error
+
+"""
+
+
+
+
+
