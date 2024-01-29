@@ -1,0 +1,3 @@
+create a function which expecting list as param...
+
+from list find all palindrome names and store in palindrome.txt file
