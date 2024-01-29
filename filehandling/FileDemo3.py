@@ -1,0 +1,5 @@
+#file = open("./filehandling/emp.txt","w")
+#file = open("C://Users//Samir//Desktop//demo3.txt","w")
+file = open("./filehandling/emp.txt","a")
+file.write("ok\n")
+file.close()
