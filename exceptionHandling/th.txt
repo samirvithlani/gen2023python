@@ -1,0 +1,17 @@
+ERROR -> exception
+
+error --> syntax error ; indeent -->  error must be resolved before execution
+
+exceptoin --> need to handle exception
+
+Exception --> base class for all exception
+    -->child class
+
+try:
+except:
+finally:
+
+"""
+
+after 1 try block we should have atleast 1 except or finally block
+after 1 try block we can write multiple except block
