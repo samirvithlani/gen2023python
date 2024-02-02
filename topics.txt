@@ -1,0 +1,15 @@
+basics
+data types
+if else
+match case
+loops
+string
+list [nested list,comprhensions]
+tuple
+set [set comprhensions]
+dictionary [dictionary comprhensions]
+slicing
+functions [lambda,decorators,inner functions]
+oops
+file handling
+exception handling
